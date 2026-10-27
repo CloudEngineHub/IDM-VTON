@@ -217,11 +217,11 @@ Thanks [Densepose](https://github.com/facebookresearch/DensePose) for human dens
 
 ## Citation
 ```
-@article{choi2024improving,
-  title={Improving Diffusion Models for Authentic Virtual Try-on in the Wild},
+@inproceedings{choi2024improving,
+  title={Improving diffusion models for authentic virtual try-on in the wild},
   author={Choi, Yisol and Kwak, Sangkyung and Lee, Kyungmin and Choi, Hyungwon and Shin, Jinwoo},
-  journal={arXiv preprint arXiv:2403.05139},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  year={2024},
 }
 ```
 
